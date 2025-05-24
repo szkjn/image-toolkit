@@ -1,0 +1,6 @@
+.venv
+venv
+archive
+input
+output
+.DS_Store
